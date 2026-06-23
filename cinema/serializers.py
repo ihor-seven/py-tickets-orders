@@ -6,7 +6,7 @@ from cinema.models import (
     Movie,
     MovieSession,
     Ticket,
-    Order
+    Order,
 )
 
 
